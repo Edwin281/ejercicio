@@ -1,0 +1,14 @@
+/* Borde de tabla de 2px */
+table {
+    border: 2px solid #000;
+    background-color: skyblue;
+    margin-top: 10px;
+}
+/* hover de celda naranja */
+table tr td:hover {
+    background-color: orange;
+}
+/* textos azul rey */
+table tr td {
+    color: #0833a2;
+}
